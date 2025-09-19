@@ -20,6 +20,7 @@
 
 ### 🧠 [Project 1: Cross-Species Auditory Cascade Models for Pitch Perception]
 **Description:** This is my core Ph.D. research project. It involves building a series of AI-driven auditory peripheral cascade models with parameters derived from different species (e.g., guinea pig, cat, human). The goal is to simulate the transformation of sound waves into neural representations and investigate how these species-specific processing pipelines influence the emergence of pitch perception mechanisms in higher-level neural networks. This data-driven approach aims to bridge computational neuroscience and deep learning to explore fundamental questions in auditory perception.  
+
 **Key Features:**
 -   **Biologically-Inspired Design:** Models incorporate species-specific neurophysiological parameters (e.g., basilar membrane tuning, nerve fiber response characteristics).
 -   **Deep Learning Framework:** Utilizes deep neural networks (CNNs, Transformers) as a flexible framework to learn the mapping from simulated auditory nerve patterns to perceptual phenomena.
