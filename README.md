@@ -23,19 +23,20 @@
 **Key Features:**
 -   **Biologically-Inspired Design:** Models incorporate species-specific neurophysiological parameters (e.g., basilar membrane tuning, nerve fiber response characteristics).
 -   **Deep Learning Framework:** Utilizes deep neural networks (CNNs, Transformers) as a flexible framework to learn the mapping from simulated auditory nerve patterns to perceptual phenomena.
--   **Comparative Analysis:** Systematically compares model performance across "species" to hypothesize about evolutionary and functional adaptations in auditory processing.  
+-   **Comparative Analysis:** Systematically compares model performance across "species" to hypothesize about evolutionary and functional adaptations in auditory processing.
+
 **Tech:** Python | PyTorch | TensorFlow | Psychoacoustics Metrics | Neurophysiology Data Analysis  
 **Link:** 【Link to your Ph.D. project repository】  
 **Status:** 🔬 Active Research - Initial results expected in 6 months.  
 
 ### [Project 2: CNN-based Auditory System Modeling]
-**Description:** My graduation design project involved building and training CNN models to simulate and understand the human auditory processing mechanism.
-**Tech:** Python, CNN, TensorFlow/Keras
+**Description:** My graduation design project involved building and training CNN models to simulate and understand the human auditory processing mechanism.  
+**Tech:** Python, CNN, TensorFlow/Keras  
 **Link:** --
 
 ### [Project 3: Multimodal GUI Automation Agent (In Progress)]
-**Description:** Developing a proof-of-concept AI agent that uses vision-language models to understand screen content and perform basic GUI automation tasks. This is my hands-on project to learn about multi-modal AI agents.
-**Tech:** Python, OpenAI API, PyAutoGUI, CLIP
+**Description:** Developing a proof-of-concept AI agent that uses vision-language models to understand screen content and perform basic GUI automation tasks. This is my hands-on project to learn about multi-modal AI agents.  
+**Tech:** Python, OpenAI API, PyAutoGUI, CLIP  
 **Link:** ...
 
 ---
