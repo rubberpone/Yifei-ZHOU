@@ -36,7 +36,8 @@
 ### [Project 3: Multimodal GUI Automation Agent (In Progress)]
 **Description:** Developing a proof-of-concept AI agent that uses vision-language models to understand screen content and perform basic GUI automation tasks. This is my hands-on project to learn about multi-modal AI agents.
 **Tech:** Python, OpenAI API, PyAutoGUI, CLIP
-**Link:** --
+**Link:** ...
+
 ---
 
 ## 📊 GitHub Stats & Overview
