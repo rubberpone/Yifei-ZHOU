@@ -28,13 +28,12 @@
 **Link:** 【Link to your Ph.D. project repository】
 **Status:** 🔬 Active Research - Initial results expected in 6 months.
 
-
 ### [Project 2: CNN-based Auditory System Modeling]
 **Description:** My graduation design project involved building and training CNN models to simulate and understand the human auditory processing mechanism.
 **Tech:** Python, CNN, TensorFlow/Keras
 **Link:** --
 
-### [Project 1: Multimodal GUI Automation Agent (In Progress)]
+### [Project 3: Multimodal GUI Automation Agent (In Progress)]
 **Description:** Developing a proof-of-concept AI agent that uses vision-language models to understand screen content and perform basic GUI automation tasks. This is my hands-on project to learn about multi-modal AI agents.
 **Tech:** Python, OpenAI API, PyAutoGUI, CLIP
 **Link:** --
